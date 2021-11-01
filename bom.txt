@@ -1,0 +1,44 @@
+1. LILYGO TTGO T-Display ESP32 
+$17.99 https://www.amazon.com/LILYGO-T-Display-Arduino-Development-CH9102F/dp/B099MPFJ9M/ref=sr_1_3?crid=2I3GRIOZ57F0O&dchild=1&keywords=LILYGO+TTGO+T-Display+ESP32&qid=1635726019&qsid=138-0460126-6366542&sprefix=lilygo+ttgo+t-display+esp32+%2Caps%2C158&sr=8-3&sres=B099MPFJ9M%2CB098PYJ7ZL%2CB09G2GZ3SL%2CB098NMBRKV%2CB07VD41JLN%2CB09FY8YHRS%2CB0913535M9%2CB095LWF5S1%2CB09BNGDX4W%2CB098NM4VY7%2CB083ZC6LH9%2CB098L43WJQ%2CB07X1W16QS%2CB07ZFRYM4G%2CB07WVWCMKZ%2CB08GLFH7J1
+
+2. MAX98357
+$7 1pc/$17 5pc https://www.amazon.com/Comimark-Max98357-Amplifier-Breakout-Interface/dp/B07XY6YR31/ref=sr_1_5?crid=6AU4FH1IC3HL&dchild=1&keywords=MAX98357&qid=1635726110&qsid=138-0460126-6366542&sprefix=max98357%2Caps%2C50&sr=8-5&sres=B096ZM9LL5%2CB0912CWB7Z%2CB07PS653CD%2CB07XY6YR31%2CB08SLPRYPJ%2CB07VCSY8Y2%2CB09GNS7V8M%2CB07YWQ3Y2J%2CB09KH5C85N%2CB09J4V6BZP%2CB09J4D2KCZ%2CB09J25K979%2CB09JCQ6R9Y%2CB099X61NQG%2CB099SGC8VJ%2CB098RBFVTD%2CB09876SRDY%2CB097C4Z352%2CB0965TQ1WR%2CB093T3HTDG
+
+3. 18650 Battery Flat Top
+
+4. 28mm 2W Stereo Audio Speaker 1" Inch 4 Ohm Full-range DIY Loudspeaker 
+https://www.amazon.com/Baosity-Stereo-Speaker-Full-Range-Loudspeaker/dp/B07H32XWTM/ref=sr_1_3?crid=373QEQONE2P03&dchild=1&keywords=28mm+2W+Stereo+Audio+Speaker&qid=1635726447&qsid=138-0460126-6366542&sprefix=28mm+2w+stereo+audio+speaker%2Caps%2C196&sr=8-3&sres=B07H32XWTM%2CB07DL2ZJDN%2CB07M6JNX5R%2CB07XWTKCNL%2CB09DVBMQMR%2CB07NZ648KM%2CB07M6KR3Y5%2CB07FK3BKMQ%2CB09D4VQ8FS%2CB07W5WS6TM%2CB07F68TVWV%2CB085HNLS97%2CB01EJI8UWI%2CB07GJ4GH67%2CB01LN8ONG4%2CB01CHYIU26&srpt=SPEAKERS
+https://www.aliexpress.com/item/4000848271297.html?spm=a2g0s.9042311.0.0.27424c4d1eBTg9
+
+5. ANT7-T-ST25DV04K 
+$4.63 https://www.mouser.com/ProductDetail/STMicroelectronics/ANT7-T-ST25DV04K?qs=u16ybLDytRZONz6PPkefOg%3D%3D
+$4.92 https://www.digikey.com/en/products/detail/stmicroelectronics/ANT7-T-ST25DV04K/9861520
+
+6. 3pcs  S2B-PH-SM4-TB(LF)(SN) 
+https://www.digikey.com/en/products/detail/jst-sales-america-inc/S2B-PH-SM4-TB-LF-SN/926655?s=N4IgTCBcDaIMpgEIFoAKAJZcCyAWZAKogBQAyAYgJTFwBylIAugL5A
+$0.7750 https://www.questcomp.com/part/4/s2b-ph-sm4-tb(lf)(sn)/365343490?utm_source=octopart&utm_medium=industry-cpc&utm_campaign=partsearch
+
+7. S5B-PH-SM4-TB(LF)(SN)
+https://www.digikey.com/en/products/detail/jst-sales-america-inc/S5B-PH-SM4-TB-LF-SN/926658
+https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-S5B-PH-SM4-TB-LF-SN_C265104.html
+
+8. Button PV6F240NN-3R1
+$18.29 https://www.digikey.com/en/products/detail/e-switch/PV6F240NN-3R1/5878584
+
+9. 306ZBE ... best but obsolute. 301ZBE  Pushbutton Switches Pushbutton Switches
+$5.47 https://www.digikey.com/en/products/detail/apem-inc/301ZBE/1280067
+
+10. Partstock DC 12V 0.5A Round Micro Push Button Switch On Off Mini Momentary Self-locking Switch
+$7 for 10pcs https://www.amazon.com/gp/product/B07TF8CTZL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+11. M2 x 3mm (L) x 3.2mm (OD) Female Thread Brass Embedment Nuts
+https://www.amazon.com/dp/B07LBQFNQD?psc=1&smid=A1THAZDOWP300U&ref_=chk_typ_imgToDp
+
+12. M3 Brass Insert, 5 mm (Length), Female Thread, Heat Sink/Injection Mold Type
+https://www.amazon.com/gp/product/B07HKW7LKH/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+13. M3 Nylon screws
+https://www.amazon.com/gp/product/B076J5RGKS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+
+14. M2 screws
+https://www.amazon.com/gp/product/B01FTI8TM8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1

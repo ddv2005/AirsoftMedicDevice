@@ -1,0 +1,225 @@
+{
+  "uuid": "c364e47c3e6e87a90bcb0d29c2fd5df7",
+  "path": "Offline/Airsoft%20Medic%20Device%201.1",
+  "name": "Airsoft Medic Device 1.1",
+  "content": "",
+  "created_at": "2021-08-22 12:30:13",
+  "updated_at": "2021-08-22 16:23:57",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "1da47c850c8d860f184c6eca965edc57",
+      "title": "Main Sheet",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "98b64ea398c246f4950c7e7b28257e3d": 1,
+        "9900276970c045968b41a8d9db21b679": 1,
+        "c9f5a24de7d9962ed69808324826d717": 2,
+        "ed322065e332417989193cb0876b3878": 4,
+        "c2e3c5201b1e4f4891fc7c572af47b67": 1,
+        "405006be56aa484b81b7d043870612bc": 3,
+        "d1bd8c19a87f42e0ba40bf0a6ed675f4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "SWT 1",
+          1,
+          "S2B-PH-SM4-TB(LF)(SN)",
+          "CN1",
+          {
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "S2B-PH-SM4-TB(LF)(SN)",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "455-1749-1-ND",
+            "puuid": "41fb61c9896e4c12b66f82390bad826b",
+            "uuid": "405006be56aa484b81b7d043870612bc"
+          }
+        ],
+        [
+          "SWT 2",
+          1,
+          "S5B-PH-SM4-TB(LF)(SN)",
+          "CN2",
+          {
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "S5B-PH-SM4-TB(LF)(SN)",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "455-1752-1-ND",
+            "puuid": "efbd0be245834b898c3aa67d9fd3a16d",
+            "uuid": "d1bd8c19a87f42e0ba40bf0a6ed675f4"
+          }
+        ],
+        [
+          "BAT",
+          1,
+          "S2B-PH-SM4-TB(LF)(SN)",
+          "CN3",
+          {
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "S2B-PH-SM4-TB(LF)(SN)",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "455-1749-1-ND",
+            "puuid": "41fb61c9896e4c12b66f82390bad826b",
+            "uuid": "405006be56aa484b81b7d043870612bc"
+          }
+        ],
+        [
+          "SKR",
+          1,
+          "S2B-PH-SM4-TB(LF)(SN)",
+          "CN4",
+          {
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "S2B-PH-SM4-TB(LF)(SN)",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "455-1749-1-ND",
+            "puuid": "41fb61c9896e4c12b66f82390bad826b",
+            "uuid": "405006be56aa484b81b7d043870612bc"
+          }
+        ],
+        [
+          "ANT7-T-ST25DV-1",
+          1,
+          "HDR-TH_4P-P2.54-V-F",
+          "P1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2718488",
+            "BOM_Manufacturer": "BOOMELE(博穆精密)",
+            "BOM_Manufacturer Part": "2.54-1*4P母",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8f78b31c15d54ef69278fa188fb193ea",
+            "uuid": "9900276970c045968b41a8d9db21b679"
+          }
+        ],
+        [
+          "ANT7-T-ST25DV-2",
+          1,
+          "HDR-TH_2P-P2.54-V-M",
+          "P2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "2.54mm 1*2P",
+            "BOM_Supplier Part": "C36717",
+            "puuid": "e6b180e1316a4d0690f78b72797504c2",
+            "uuid": "c9f5a24de7d9962ed69808324826d717"
+          }
+        ],
+        [
+          "BAT TO BOARD",
+          1,
+          "HDR-TH_2P-P2.54-V-M",
+          "P4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "2.54mm 1*2P",
+            "BOM_Supplier Part": "C36717",
+            "puuid": "e6b180e1316a4d0690f78b72797504c2",
+            "uuid": "c9f5a24de7d9962ed69808324826d717"
+          }
+        ],
+        [
+          "100K",
+          1,
+          "RES-TH_BD1.7-L3.5-P7.50-D0.5",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433501",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1/8W 100K F T/B A1",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b9ec78209330420a90157d1c3f74bd79",
+            "uuid": "ed322065e332417989193cb0876b3878"
+          }
+        ],
+        [
+          "47",
+          3,
+          "RES-TH_BD1.7-L3.5-P7.50-D0.5",
+          "R2,R3,R4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C433501",
+            "BOM_Manufacturer": "TyoHM",
+            "BOM_Manufacturer Part": "RN 1/8W 100K F T/B A1",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b9ec78209330420a90157d1c3f74bd79",
+            "uuid": "ed322065e332417989193cb0876b3878"
+          }
+        ],
+        [
+          "ESP32 TTGO T-Display",
+          1,
+          "TTGO T-DISPLAY",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e22ae8d173e948faa07e5454be51a1e3",
+            "uuid": "c2e3c5201b1e4f4891fc7c572af47b67"
+          }
+        ],
+        [
+          "MAX98357 I2S",
+          1,
+          "ADAFRUIT_MAX98357_I2S_AMP_+SPEAKER",
+          "U4",
+          {
+            "BOM_Manufacturer Part": "Adafruit MAX98357 I2S Amp",
+            "puuid": "210cc47e62194c6e84e2d99c12d159bd",
+            "uuid": "98b64ea398c246f4950c7e7b28257e3d"
+          }
+        ]
+      ],
+      "updateTime": 1629652729,
+      "createTime": 1629589924,
+      "histories": [],
+      "created_at": "2021-08-21 19:52:04",
+      "updated_at": "2021-08-22 13:18:49"
+    },
+    {
+      "uuid": "a17ffbc11e60c043678bae5845e43fe4",
+      "title": "PCB_Airsoft Medic Device",
+      "filename": "PCB_Airsoft Medic Device.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "41fb61c9896e4c12b66f82390bad826b": 3,
+        "efbd0be245834b898c3aa67d9fd3a16d": 1,
+        "b9ec78209330420a90157d1c3f74bd79": 4,
+        "8f78b31c15d54ef69278fa188fb193ea": 1,
+        "e6b180e1316a4d0690f78b72797504c2": 2,
+        "e22ae8d173e948faa07e5454be51a1e3": 1,
+        "210cc47e62194c6e84e2d99c12d159bd": 1
+      },
+      "BOM": [],
+      "updateTime": 1629663837,
+      "createTime": 1629592355,
+      "histories": [],
+      "created_at": "2021-08-21 20:32:35",
+      "updated_at": "2021-08-22 16:23:57"
+    }
+  ],
+  "sort": [],
+  "title": "Airsoft Medic Device 1.1",
+  "foldername": "Airsoft Medic Device 1.1",
+  "schfilename": "Airsoft Medic Device 1.1.json",
+  "schfilemtime": 1629652729314
+}
